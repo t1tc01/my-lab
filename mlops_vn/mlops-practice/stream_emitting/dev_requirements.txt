@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+pyarrow==8.0.0
+fastparquet==0.8.3
+pandas
